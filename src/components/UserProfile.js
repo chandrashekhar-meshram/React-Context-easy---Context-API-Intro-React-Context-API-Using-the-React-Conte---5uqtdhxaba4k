@@ -7,8 +7,8 @@ const UserProfile = () =>{
     
     return(
         <div>
-            <h1 id="name">Name - {temp.name} </h1>
-            <h1 id="age">Age - {temp.age} </h1>
+            <h1 id="name">Name: - {temp.name} </h1>
+            <h1 id="age">Age: - {temp.age} </h1>
         </div>
     )
    
