@@ -4,7 +4,7 @@ import { UserContext } from "./App";
 
 const UserProfile = () => {
   const temp = useContext(UserContext);
-  console.log(temp);
+//   console.log(temp);
 
   return (
     <div>
